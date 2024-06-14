@@ -1,0 +1,74 @@
+[
+    {
+        "aluno_id": 1,
+        "nome": "Isabella",
+        "notas": {
+            "Mat": 8.0,
+            "Port": 2.0,
+            "Geo": 6.0
+        }
+    },
+    {
+        "aluno_id": 2,
+        "nome": "Lucas",
+        "notas": {
+            "Mat": 6.0,
+            "Port": 7.0,
+            "Geo": 4.0
+        }
+    },
+    {
+        "aluno_id": 3,
+        "nome": "Debora",
+        "notas": {
+            "Mat": 5.0,
+            "Port": 8.0,
+            "Geo": 10.0
+        }
+    },
+    {
+        "aluno_id": 4,
+        "nome": "Douglas",
+        "notas": {
+            "Mat": 8.0,
+            "Port": 4.0,
+            "Geo": 6.0
+        }
+    },
+    {
+        "aluno_id": 5,
+        "nome": "Julia",
+        "notas": {
+            "Mat": 5.0,
+            "Port": 3.0,
+            "Geo": 8.0
+        }
+    },
+    {
+        "aluno_id": 11,
+        "nome": "Pamela",
+        "notas": {
+            "Mat": 5.0,
+            "Port": 8.0,
+            "Geo": 4.5
+        }
+    },
+    {
+        "aluno_id": 7,
+        "nome": "Joao",
+        "notas": {
+            "Mat": 2.0,
+            "Port": 6.0,
+            "Geo": 7.0
+        }
+    },
+    {
+        "aluno_id": 6,
+        "nome": "Larissa",
+        "notas": {
+            "Mat": 1.0,
+            "Port": 8.0,
+            "Geo": 5.6
+        }
+    }
+]
